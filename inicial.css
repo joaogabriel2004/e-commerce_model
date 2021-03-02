@@ -1,0 +1,165 @@
+:root {
+
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding:0px;
+    margin:0px;
+}
+
+header {
+    background-color: whitesmoke;
+    height: 6.6rem;
+}
+
+#logo {
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    margin-left: 30rem;
+}
+
+#barra-pesquisa-input {
+    margin-top: 2rem;
+    margin-left: 8rem;
+    width: 23rem;
+    height: 3rem;
+    font-size: 24px;
+}
+
+.menu {
+    height: 3rem;
+    margin-top: 6px;
+    background-color: rgb(81, 136, 238);
+}
+
+ul {
+    list-style: none;
+    height: 3rem;
+}
+
+ul li {
+    display: inline;
+}
+
+
+.opcao1 {
+    
+    margin-top: 2rem;
+    margin-left: 0rem;
+}
+.opcao2 {
+    margin-left: 2rem;
+}
+.opcao3 {
+    margin-left: 2rem;
+}
+.opcao4 {
+    margin-left: 2rem;
+}
+
+a:link {
+    font-size: 22px;
+    text-decoration: none;
+    color: white;
+}
+
+.banner-deslizar {
+    
+}
+
+#banner {
+    margin-top: 2.1rem;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.sobre-nos {
+    margin-bottom: 1rem;
+    background-color: white;
+}
+
+.texto-sobre-nos {
+    column-count:2;
+    column-gap: 10rem;
+    width: 50rem;
+    height: 15rem;
+    padding: 1rem;
+    margin: auto;
+    text-align: center;
+}
+
+.mais-populares {
+    background-color: whitesmoke;
+    height: 35rem;
+}
+
+#img-hotel1 {
+    float: left;
+    width:25rem;
+    margin-left: 1%;
+    margin-top: 1%;
+    
+}
+
+#img-hotel2 {
+    float: left;
+    width: 25rem;
+    margin-left: 1%;
+    margin-top: 1%;
+    
+}
+#hotel1 {
+    float: left;
+    background-color: rgb(221, 219, 219);
+    border-radius: 8px;
+    height: 30rem;
+    width: 25.5rem;
+    margin-left: 27%;
+}
+
+#hotel2 {
+    float: left;
+    background-color: rgb(221, 219, 219);
+    border-radius: 8px;
+    height: 30rem;
+    width: 25.5rem;
+    margin-left: 4%;
+}
+
+.texto-miniatura {
+    text-align: center;
+}
+
+
+#coluna1 {
+    background-color: rgb(81, 136, 238);
+    float: left;
+    margin-left: 45%;
+}
+#coluna2 {
+    background-color: rgb(81, 136, 238);
+    float: left;
+    margin-left: 0.4%;
+}
+#coluna3 {
+    background-color: rgb(81, 136, 238);
+    margin-left: 52.6%;
+    
+}
+
+#copy-joao {
+    background-color: rgb(81, 136, 238);
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(81, 136, 238);
+    height: 10rem;
+}
